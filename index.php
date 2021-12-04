@@ -16,6 +16,10 @@
     font-weight: bold;
     border-radius: 9px;
 ">Link 1 </a>   
-    <a href="https://form.jotform.com/213375514018350" style="margin: 30px;display: inline-block;border: 2px solid blue;width: 200px;text-decoration: auto;color: black;font-weight: bold;border-radius: 9px;">Link 2 </a> 
+    <a href="https://form.jotform.com/213375514018350" style="margin: 30px;display: inline-block;border: 2px solid blue;width: 200px;text-decoration: auto;color: black;font-weight: bold;border-radius: 9px;">Link 2 </a>
+<br><br>
+I due link sono identici e si può usare sia uno che l'altro per iscriversi.<br> 
+Qualora non funzionasse uno dei due, potete semplicemente utilizzare l'altro
+
 
 </body></html>
