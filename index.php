@@ -104,7 +104,6 @@ body {
 ">Per procedere con l'iscrizione premere uno dei due seguenti link: (Al momento disabilitato)</span>
 <div style="
     display: flex;
-    display: none;
     flex-direction: row;
     margin: 15px;
 "><a href="https://form.jotform.com/213096726972364" style="
