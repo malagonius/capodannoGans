@@ -97,6 +97,7 @@ body {
     width: 80%;
     flex-wrap: wrap;
     height: 550px;
+    max-width: 400px;
 "><h1>Pagina di iscrizione Conferenza Gans 2021-2022</h1>
     <span style="
     display: inline-block;
@@ -191,4 +192,5 @@ La conferenza avrà’ luogo presso Park Hotel Jolanda (San Zeno di Montagna) e 
     <p>Iscrivendoti verrai aggiunto al gruppo Whatsapp dove invieremo maggiori dettagli. Tieniti aggiornato seguendo anche la pagina Instagram e Facebook!</p>
   </div>
 </div>
+
 </body></html>
