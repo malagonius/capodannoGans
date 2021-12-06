@@ -104,6 +104,7 @@ body {
 ">Per procedere con l'iscrizione premere uno dei due seguenti link: (Al momento disabilitato)</span>
 <div style="
     display: flex;
+    display: none;
     flex-direction: row;
     margin: 15px;
 "><a href="https://form.jotform.com/213096726972364" style="
@@ -129,7 +130,7 @@ body {
                                                               margin: 5px;
                                                               ">Secondo Link d'iscrizione</a></div><span style="
     display: none;
-    /* display: block; */
+    display: block;
     margin-top: 20px;
 ">
 I due link sono identici e si può usare sia uno che l'altro per iscriversi.<br>
