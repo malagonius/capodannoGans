@@ -135,7 +135,16 @@ body {
 I due link sono identici e si può usare sia uno che l'altro per iscriversi.<br>
  
 Qualora non funzionasse uno dei due, potete semplicemente utilizzare l'altro
-
+<br>
+<br><a href="https://docs.google.com/spreadsheets/d/1ZXh4MeasO0HyH315EQjA9KZkwYgj9A63YOEgklfn6lA/edit#gid=1817233686" style="
+    color: white;
+    border: 2px solid blue;
+    margin: 5px;
+    display: block;
+    border-radius: 10px;
+    text-decoration: none;
+">
+Clicca qui per visualizzare la lista degli iscritti</a> 
 
 </span></div>
        
@@ -192,5 +201,6 @@ La conferenza avrà’ luogo presso Park Hotel Jolanda (San Zeno di Montagna) e 
     <p>Iscrivendoti verrai aggiunto al gruppo Whatsapp dove invieremo maggiori dettagli. Tieniti aggiornato seguendo anche la pagina Instagram e Facebook!</p>
   </div>
 </div>
+
 
 </body></html>
