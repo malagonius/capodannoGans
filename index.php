@@ -132,9 +132,9 @@ body {
     display: block;
     margin-top: 20px;
 ">
-I due link sono identici e si può usare sia uno che l'altro per iscriversi.<br>
- 
-Qualora non funzionasse uno dei due, potete semplicemente utilizzare l'altro
+
+ Quota massima raggiunta, conttatate Klara Muce, o Franco Borrelli per sperare in un posticino extra!
+
 <br>
 <br><a href="https://docs.google.com/spreadsheets/d/1ZXh4MeasO0HyH315EQjA9KZkwYgj9A63YOEgklfn6lA/edit#gid=1817233686" style="
     color: white;
