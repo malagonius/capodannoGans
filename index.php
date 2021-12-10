@@ -106,7 +106,7 @@ body {
     display: flex;
     flex-direction: row;
     margin: 15px;
-"><a href="https://form.jotform.com/213096726972364" style="
+"><a href="https://form.jotform.com/213434732227350" style="
     /* margin: 10px; */
     /* display: none; */
     display: inline-block;
@@ -117,7 +117,7 @@ body {
     font-weight: bold;
     border-radius: 9px;
     margin: 5px;
-">Primo Link d'iscrizione </a><a href="https://form.jotform.com/213375514018350" style="
+">Primo Link d'iscrizione </a><a href="https://form.jotform.com/213434732227350" style="
                                                               /* display: none; */
                                                               display: inline-block;
                                                               border: 2px solid blue;
